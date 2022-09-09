@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7daacaa1.css",
-    "main.js": "/static/js/main.bc886c41.js",
+    "main.css": "/static/css/main.d7ba7a6f.css",
+    "main.js": "/static/js/main.ac076af4.js",
+    "static/media/hero.png": "/static/media/hero.58e35e126654ae40d6b8.png",
+    "static/media/wunderlab_logo.png": "/static/media/wunderlab_logo.91a1a13c7417ea748ac8.png",
     "index.html": "/index.html",
-    "main.7daacaa1.css.map": "/static/css/main.7daacaa1.css.map",
-    "main.bc886c41.js.map": "/static/js/main.bc886c41.js.map"
+    "main.d7ba7a6f.css.map": "/static/css/main.d7ba7a6f.css.map",
+    "main.ac076af4.js.map": "/static/js/main.ac076af4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7daacaa1.css",
-    "static/js/main.bc886c41.js"
+    "static/css/main.d7ba7a6f.css",
+    "static/js/main.ac076af4.js"
   ]
 }
